@@ -1,0 +1,42 @@
+.headerContainer {
+    display: flex;
+    border: 2px dotted black;
+    flex-flow: nowrap row;
+    height: 100px
+}
+
+.headerItem {
+    border: 2px dotted red;
+    align-self: flex-end;
+    justify-content: flex-start;
+    margin-left: 3em;
+    margin-bottom: 1em;
+}
+
+.headerLogo {
+    align-self: center;
+    border: 2px dotted blue;
+    margin-left: 0.5em;
+    height: 80%;
+    aspect-ratio: 1/1;
+}
+
+.footerContainer {
+    display: flex;
+    border: 2px dotted black;
+    flex-flow: nowrap row;
+    height: 100px
+}
+
+.footerItem {
+    border: 2px dotted red;
+    align-self: flex-start;
+    justify-content: flex-start;
+    margin-left: 3em;
+    margin-bottom: 1em;
+}
+
+body {
+    border: 2px dotted green;
+}
+
