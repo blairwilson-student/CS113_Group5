@@ -4,13 +4,8 @@ echo <<< FOOTER_END
 
 <div class="footerContainer">
     <div class="footerItem">
-Home
-    </div>
-    <div class="footerItem">
-About
-    </div>
-    <div class="footerItem">
-MoreButtons
+    <p> Contact Us</p>
+
     </div>
 </div>
 
