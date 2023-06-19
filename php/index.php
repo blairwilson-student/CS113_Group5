@@ -41,6 +41,6 @@
     <img src="../images/placeholder.jpg">
 </div>
 
-    <?php include './php/templateFooter.php'; ?>
+    <?php include 'templateFooter.php'; ?>
 </body>
 </html>
